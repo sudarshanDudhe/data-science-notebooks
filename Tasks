@@ -1,0 +1,21 @@
+installation
+data
+HDFS
+Map-Reduce
+Pig
+Hive
+HBase
+Sqoop
+Flume
+Zookeeper
+
+Tweets Munging
+
+dl
+
+Extra
+ambari - Provision, Monitor and Maintain cluster
+mahout mllib
+spark
+storm kafka
+drill mrjob yarn
